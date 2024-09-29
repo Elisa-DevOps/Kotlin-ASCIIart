@@ -1,3 +1,6 @@
+//Project: ASCII Art
+//Author: Elisa Aldridge
+
 /*
      .....      
   .         .   
@@ -10,7 +13,7 @@
      .  .       
 */
 fun main(){
-    println("     ..... ");
+    println("     ..... ");     //printing a robot
     println("  .         . ");
     println(" .   0  0    .");
     println("  ........... ");
@@ -19,4 +22,6 @@ fun main(){
     println(" .  ......  . ");
     println("     .  .  ");
     println("     .  .");
+
+    println(" |\\---/|\n | o_o |\n  \\_^_/");             //print cat with a single print statement
 }
