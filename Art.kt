@@ -22,6 +22,6 @@ fun main(){
     println(" .  ......  . ");
     println("     .  .  ");
     println("     .  .");
-
+    println("\n");
     println(" |\\---/|\n | o_o |\n  \\_^_/");             //print cat with a single print statement
 }
